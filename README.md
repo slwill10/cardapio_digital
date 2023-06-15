@@ -29,11 +29,7 @@ Execute o projeto a partir da classe principal (geralmente chamada de Applicatio
 O projeto será iniciado e estará disponível em http://localhost:8080.
 
 ## Contribuição
-Este projeto está aberto a contribuições. Se você quiser adicionar recursos, corrigir bugs ou melhorar o projeto de alguma forma, sinta-se à vontade para fazer um fork do repositório e enviar suas alterações por meio de um pull request.
+Este projeto está aberto a contribuições. Se você quiser adicionar recursos, corrigir bugs ou melhorar o projeto de alguma forma, sinta-se à vontade para fazer um fork do repositório e enviar suas alterações por meio de um pull request. 
 
-## Contato
-Se você tiver alguma dúvida ou precisar de mais informações sobre o projeto, entre em contato conosco por meio dos seguintes canais:
-
-Email: seu-email@exemplo.com
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
